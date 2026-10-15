@@ -1,5 +1,12 @@
 # ArcaneKnockout supporting materials
 
+## Pitch deck
+
+- **[Read the pitch deck (PDF)](https://minthukyawdev-droid.github.io/ArcaneKnockout-Screenshots/ArcaneKnockout-Pitch-Deck.pdf)**
+- **[Download the editable pitch deck (PowerPoint)](https://minthukyawdev-droid.github.io/ArcaneKnockout-Screenshots/ArcaneKnockout-Pitch-Deck.pptx)**
+
+The 11-slide proposal covers the gameplay, playable prototypes, planned cosmetic monetization, founder background, four-month development schedule and $30,000 budget. It distinguishes the current solo project from two hires conditional on funding. Figures are proposed estimates, and the 2027 release year is a target. Prepared 15 October 2026.
+
 ## Game and playable prototypes
 
 - **[Official game website](https://arcaneknockout.minthukyaw.com/)** — game overview, arenas, how to play, spell wiki and Android installation instructions.

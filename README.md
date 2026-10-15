@@ -1,8 +1,16 @@
 # ArcaneKnockout Funding Media
 
-Public screenshots, gameplay video and Windows prototype for the ArcaneKnockout funding application.
+Public pitch deck, screenshots, gameplay video, budget and prototype links for the ArcaneKnockout funding application.
 
-[Open the supporting-materials link collection](SUPPORTING_MATERIALS.md) for the official website, Android and Windows prototypes, gameplay video, screenshots, budget and developer background.
+[Open the supporting-materials link collection](SUPPORTING_MATERIALS.md) for the pitch deck, official website, Android and Windows prototypes, gameplay video, screenshots, budget and developer background.
+
+## Pitch deck
+
+[Read the 11-slide funding pitch deck (PDF)](https://minthukyawdev-droid.github.io/ArcaneKnockout-Screenshots/ArcaneKnockout-Pitch-Deck.pdf)
+or [download the editable PowerPoint](ArcaneKnockout-Pitch-Deck.pptx).
+The proposal includes the $30,000 budget and four funded months of development,
+with the founder and two developer hires planned after funding. Costs are
+estimates and the 2027 release year is a target.
 
 ## Proposed funding budget
 
