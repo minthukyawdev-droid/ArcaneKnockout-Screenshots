@@ -1,6 +1,18 @@
 # ArcaneKnockout Funding Media
 
-Public screenshots and gameplay video for the ArcaneKnockout funding application.
+Public screenshots, gameplay video and Windows prototype for the ArcaneKnockout funding application.
+
+## Playable prototype
+
+[Download the Windows x64 prototype (ZIP)](https://github.com/minthukyawdev-droid/ArcaneKnockout-Screenshots/releases/download/funding-prototype-2026-10-15/ArcaneKnockout-Windows-x64-Prototype-2026-10-15.zip).
+Extract the entire archive and run `ArcaneKnockout.exe`; no Unity Editor is required.
+Use **PLAY → OFFLINE → choose a mode/map → CHOOSE LOADOUT → START MATCH**.
+The first launch may start the playable tutorial; it can be followed or skipped.
+Keyboard/mouse instructions are included in `README.txt`.
+
+Offline play needs no sign-in or additional players. Live online/Relay play has
+not been verified for this desktop package. A macOS build is not included.
+[Release details, validation and checksum](https://github.com/minthukyawdev-droid/ArcaneKnockout-Screenshots/releases/tag/funding-prototype-2026-10-15).
 
 ## Gameplay video
 
