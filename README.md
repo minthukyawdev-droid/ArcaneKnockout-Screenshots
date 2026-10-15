@@ -2,6 +2,8 @@
 
 Public screenshots, gameplay video and Windows prototype for the ArcaneKnockout funding application.
 
+[Open the supporting-materials link collection](SUPPORTING_MATERIALS.md) for the official website, Android and Windows prototypes, gameplay video, screenshots, budget and developer background.
+
 ## Proposed funding budget
 
 [Download the editable $30,000 budget spreadsheet](ArcaneKnockout-Funding-Budget-30000-USD.xlsx).
