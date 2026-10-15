@@ -2,6 +2,15 @@
 
 Public screenshots, gameplay video and Windows prototype for the ArcaneKnockout funding application.
 
+## Proposed funding budget
+
+[Download the editable $30,000 budget spreadsheet](ArcaneKnockout-Funding-Budget-30000-USD.xlsx).
+The four-month proposal covers the founder plus two developer hires conditional
+on funding, with $18,000 in developer allowances and $12,000 in other costs,
+including $3,000 for PR and marketing. The $1,500 per person per month pay rate
+and other costs are planning estimates, not confirmed quotations. The milestone
+sheet retains the 2027 ship-year target; timing depends on funding, hiring and QA.
+
 ## Playable prototype
 
 [Download the Windows x64 prototype (ZIP)](https://github.com/minthukyawdev-droid/ArcaneKnockout-Screenshots/releases/download/funding-prototype-2026-10-15/ArcaneKnockout-Windows-x64-Prototype-2026-10-15.zip).
